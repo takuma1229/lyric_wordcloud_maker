@@ -1,4 +1,4 @@
-# lyric_wordcloud_maker
+# lyric_wordcloud_maker[WIP]
 ## あなたの好きなアーティストはどんな言葉を歌詞に使っている？
 
 ## 機能の概要
